@@ -1,0 +1,298 @@
+
+.master{
+    margin: 1px;
+    background-color: rgb(207, 212, 221);
+    height: 100vh;
+    flex-direction: column;
+    margin: 0px;
+    
+    
+}
+
+.principal{
+    
+    background-color: #BB8B10;
+    height: 20vh;
+    display: flex;
+
+}
+
+
+.master .principal .logo{
+    margin: 10px;
+    height: 10px;
+    
+}
+
+
+.master .principal .inicio{
+    height: 10px;
+    margin-top: 40px;
+    border: none;
+    
+}
+.inicio {
+    margin-left: 50vh;
+     width: 300px;
+     margin-top: 35px;
+     border: none;
+    
+      
+  }
+
+  
+
+  .inicio:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.home{
+    margin-top: 80px;
+    margin-left: -100vh;
+    
+}
+
+.home:hover {
+    transform: translateY(-2px);
+    
+    
+}
+
+.carrinho{
+    margin-left: 105vh;
+    margin-top: 35px;
+}
+
+.carrinho:hover {
+    transform: translateY(-2px);
+}
+
+.entre{
+    margin-left: 50px;
+    margin-top: 35px ;
+}
+
+.entre:hover {
+    transform: translateY(-2px);
+}
+
+.carrosel{
+    display: flex;
+    width: auto;
+    height: 60vh;
+
+    background-color: rgba(180, 143, 143, 0)
+}
+
+.box{
+    width: 100vh;
+    height: 56vh;
+    background-color: rgba(179, 58, 58, 0);
+    margin-left: 25%;
+    margin-top: 10px;
+}
+
+.box div{
+    width: 650px;
+   
+}
+
+
+.assistir{
+    margin-top: 30px;
+    width: auto;
+    height: 50vh;
+    background-color: rgba(79, 93, 99, 0);
+    flex-direction: row;
+    display: flex;
+    
+    
+}
+.caixas{
+    width: 300px;
+    height: 300px;
+    background-color: #EFEFEF;
+    box-shadow: 0 0px 20px rgba(0, 0, 0, 0.679);
+    font-family: 'Lucida Sans',
+    'Lucida Sans Regular', 
+    'Lucida Grande',
+    'Lucida Sans Unicode',
+     Geneva, Verdana,
+     sans-serif;
+    margin-left: 80px;
+    margin-top:20px ;
+    border-radius: 10px;
+}
+
+
+.caixas2{
+    width: 300px;
+    height: 300px;
+    background-color: #EFEFEF;
+    box-shadow: 0 0px 20px rgba(0, 0, 0, 0.679);
+    font-family: 'Lucida Sans',
+    'Lucida Sans Regular', 
+    'Lucida Grande',
+    'Lucida Sans Unicode',
+     Geneva, Verdana,
+     sans-serif;
+    margin-left: 10%;
+    margin-top:20px ;
+    border-radius: 10px;
+    
+}
+
+
+.caixas3{
+    width: 300px;
+    height: 300px;
+    font-family: 'Lucida Sans',
+    'Lucida Sans Regular', 
+    'Lucida Grande',
+    'Lucida Sans Unicode',
+     Geneva, Verdana,
+     sans-serif;
+     color: black;
+    background-color: #EFEFEF;
+    box-shadow: 0 0px 20px rgba(0, 0, 0, 0.679);
+
+    margin-left: 10%;
+    margin-top:20px ;
+    border-radius: 10px;
+}
+
+.caixas4{
+    width: 300px;
+    height: 300px;
+    font-family: 'Lucida Sans',
+    'Lucida Sans Regular', 
+    'Lucida Grande',
+    'Lucida Sans Unicode',
+     Geneva, Verdana,
+     sans-serif;
+     color: black;
+    background-color: #EFEFEF;
+    box-shadow: 0 0px 20px rgba(0, 0, 0, 0.679);
+
+    margin-left: 10%;
+    margin-top:20px ;
+    border-radius: 10px;
+}
+
+
+.caixas4 .imagem4{
+    margin-top: 10px;
+    margin-left: 15px;
+    
+}
+
+
+.caixas2 .imagem2{
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+
+.caixas3 .imagem3{
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+.caixas4 p{
+    margin-left: 120px;
+}
+
+.caixas2 p{
+    margin-left: 120px;
+
+}
+.caixas3 p{
+    margin-left: 120px;
+
+}
+
+
+.caixas4 button{
+ 
+    margin-left: 20px;
+
+    position: absolute;
+    width: 258px;
+    height: 64px;
+
+   background: #AE7D00;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   border-radius: 5px;
+
+   border: none;
+}
+
+.caixas2 button{
+ 
+    margin-left: 20px;
+
+    position: absolute;
+    width: 258px;
+    height: 64px;
+
+   background: #AE7D00;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   border-radius: 5px;
+   border: none;
+}
+
+
+.caixas3 button{
+ 
+    margin-left: 20px;
+
+    position: absolute;
+    width: 258px;
+    height: 64px;
+
+   background: #AE7D00;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
+   border-radius: 5px;
+   border: none;
+}
+
+.button2:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.button3:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.button4:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.cabeca1{
+    
+    margin-top: 100px;
+    height: 35vh;
+    background-color: rgb(255, 255, 255);
+    display: flex; 
+                                                                                                                                                                                       
+    
+}
+
+.cabeca1 div{
+    margin: 10px;
+    margin-left: 30vh;
+    
+}
+
+.master .cabeca1 ossas{
+
+    margin: 10px;
+}
+
+.master .logoo{
+    margin-left: 10px;
+}

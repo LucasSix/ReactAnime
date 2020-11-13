@@ -1,0 +1,217 @@
+.master{
+    
+    margin: 0px;
+    display: flex;
+    background-color: whitesmoke;
+    width: auto;
+    height: auto;
+    flex-direction: column;
+}
+
+
+.index{
+    
+    background-image: url(./CAPA.png);
+    display: flex;
+    background-size: 100%;
+    
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 205vh;
+    height: 99vh;
+    margin-left: 2px;
+}
+
+.master .index img {
+    width: 100px;
+    height: 100px;
+
+}
+
+.login1{
+    border: none;
+    
+    margin-top: 10vh;
+    margin-left: 125vh;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    font-style: normal;   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.login1{
+    width: 100px;
+}
+
+
+
+.master .index .login1 h5{
+    font-size: 20px;
+    font-weight: 60%;
+   
+    margin-top: 4px;
+    border: none;
+    color: rgb(0, 0, 0);
+    
+}
+.master .index .logo{
+    height: 25vh;
+    width: 50vh;
+    margin: 10px;
+    
+
+}
+
+
+.Entrar{
+    
+    margin-left: -690px;
+    margin-top: 370px;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(170, 116, 16);
+    border: none;
+}
+
+.master .index .Entrar h5{
+    font-size: 30px;
+    font-weight: 50%;
+    
+    color: black;
+    
+    
+}
+
+
+.login1:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+.Entrar:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+.button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.comprar{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: row;
+    width: 203vh;
+    height: 90vh;
+    margin: 10px;
+}
+
+.master .comprar h3{
+    color: rgb(14, 125, 199);
+    margin-left: 10vh;
+    margin-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode',
+      Geneva, Verdana, sans-serif;
+
+}
+
+
+.master .comprar p1{
+    color: rgb(0, 0, 0);
+    margin-left: 220px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.master .comprar p2{
+    color: rgb(0, 0, 0);
+    margin-left: 180px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.master .comprar p3{
+    color: rgb(0, 0, 0);
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.master .comprar button{
+    
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    margin-left: 10vh;
+    margin-top: 70vh;
+    background-color: rgb(160, 115, 17);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+.master .comprar .cards{
+    background-image: url(./monster.jpg);
+   width: 150px;
+   height: 200px;
+   margin-top: 230px;
+   margin-left: -20vh;
+   box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+
+}
+
+.master .comprar .cards2{
+    background-image: url(./vinland.jpg);
+    background-size: 100%;
+    width: 150px;
+    
+    height: 200px;
+    margin-top: 228px;
+    margin-left: -300px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    
+}
+
+.master .comprar .cards3{
+    background-image: url(./never.jpg);
+    width: 150px;
+    height: 200px;
+    margin-top: 228px;
+    margin-left: 130px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    
+}
+
+.cabeca{
+    margin: 1px;
+    height: 35vh;
+    background-color: rgb(248, 248, 248);
+    display: flex;                                                                                                                                                                                      
+    
+}
+
+.cabeca div{
+    margin: 1px;
+    margin-left: 30vh;
+    
+}
+
+.master .cabeca ossas{
+
+    margin: 10px;
+}
+
+.master .logo{
+    margin-left: 5px;
+}
