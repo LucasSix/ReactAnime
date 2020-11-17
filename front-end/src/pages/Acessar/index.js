@@ -71,19 +71,19 @@ export default function Acessar() {
           <div className='caixas2'>
           <img  className='imagem2' src={dragon} height='145px'/>
             <p>Dragon ball</p>
-            <button className='button2'>assistir</button>
+            <button className='button2'><a href='../assistir'>assistir</a></button>
           </div>
 
           <div className='caixas3'>
-          <img  className='imagem3' src={overlord} height='160px'/>
+          <img  className='imagem3' src={overlord} height='150px'/>
             <p>overlord</p>
-            <button className='button2'>assistir</button>
+            <button className='button2'><a href='../Assistir/index.js'>assistir</a></button>
           </div>
 
           <div className='caixas4'>
           <img  className='imagem4' src={superonze} height='150px'/>
             <p>Super Onze</p>
-            <button className='button2'>assistir</button>
+            <button className='button2'><a href='../Assistir/index.js'>assistir</a></button>
           </div>
 
           
@@ -97,19 +97,19 @@ export default function Acessar() {
           <div className='caixas2'>
           <img  className='imagem2' src={rezero} height='145px'/>
             <p>Re zero</p>
-            <button className='button2'>assistir</button>
+            <button className='button2'><a href='../Assistir/index.js'>assistir</a></button>
           </div>
 
           <div className='caixas3'>
           <img  className='imagem3' src={Beyblade} height='150px'/>
             <p>Beybalde GT</p>
-            <button className='button2'>Assitir </button>
+            <button className='button2'><a href='../Assistir/index.js'>Assitir </a></button>
           </div>
 
           <div className='caixas4'>
           <img  className='imagem4' src={nogame} height='150px'/>
-            <p>Dragon ball</p>
-            <button className='button2'>assistir</button>
+            <p>Tokyo</p>
+            <button className='button2'><a href='../Assistir/index.js'>assistir</a></button>
           </div>
 
         </div>

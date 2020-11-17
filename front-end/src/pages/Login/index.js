@@ -11,8 +11,9 @@ export default function Login() {
              <img src={logo} className="imagem"  width='300px'  alt="logo"/>
              <div className='primeira-coluna'>
                  <h2 className='titulo'> Login </h2>
+                
                  <div className='form'>
-                     <input type='text' className='texto' size='40' placeholder='E-mail ou Nome de Usuario'></input>
+                     <input type='email'  class='texto' size='40' placeholder='E-mail ou Nome de Usuario'></input>
                      <br></br>
                      <input type="password" class="texto" size="40" placeholder="Senha"></input>
                      <br></br>
@@ -23,7 +24,9 @@ export default function Login() {
                          <li className='crie'><a href='../Cadastrar/index'><h7>crie sua conta </h7></a></li>
                      </ul>
                  </div>
+                 
             </div>
+                
 
            
        </div>

@@ -1,0 +1,29 @@
+.logozin{
+    background-color: rgba(255, 255, 255, 0.808);
+}
+
+.logozin div{
+    margin: 10px;
+}
+
+.carrosel5{
+    display: flex;
+    background-color: rgba(255, 255, 255, 0);
+    width: auto;
+    height: 70vh;
+    flex-direction: center;
+}
+
+
+.videos{
+    margin-left:350px ;
+}
+
+.juju{
+    margin-left:580px ;
+}
+
+.comentarios{
+    margin: 100px;
+    margin-top:10px ;
+}

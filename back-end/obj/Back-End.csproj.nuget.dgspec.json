@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vicas\\OneDrive\\Área de Trabalho\\react-anime\\siteanime\\ReactAnime\\Back-End\\Back-End.csproj": {}
+    "C:\\AnimeTCC\\ReactAnime\\back-end\\Back-End.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vicas\\OneDrive\\Área de Trabalho\\react-anime\\siteanime\\ReactAnime\\Back-End\\Back-End.csproj": {
+    "C:\\AnimeTCC\\ReactAnime\\back-end\\Back-End.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vicas\\OneDrive\\Área de Trabalho\\react-anime\\siteanime\\ReactAnime\\Back-End\\Back-End.csproj",
+        "projectUniqueName": "C:\\AnimeTCC\\ReactAnime\\back-end\\Back-End.csproj",
         "projectName": "Back-End",
-        "projectPath": "C:\\Users\\vicas\\OneDrive\\Área de Trabalho\\react-anime\\siteanime\\ReactAnime\\Back-End\\Back-End.csproj",
+        "projectPath": "C:\\AnimeTCC\\ReactAnime\\back-end\\Back-End.csproj",
         "packagesPath": "C:\\Users\\vicas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vicas\\OneDrive\\Área de Trabalho\\react-anime\\siteanime\\ReactAnime\\Back-End\\obj\\",
+        "outputPath": "C:\\AnimeTCC\\ReactAnime\\back-end\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vicas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,20 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
