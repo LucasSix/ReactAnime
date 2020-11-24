@@ -11,4 +11,9 @@ adolescentes.<br>
  Nosso projeto consiste na pessoa assistir animes e comprar
 mangas em formato pdf.
 
+### Casos de Uso
+
+    ![Casos de uso](Caso.PNG)
+
+    
 
