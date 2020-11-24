@@ -195,7 +195,7 @@ Finalizar pedido
 #### Djalma Prado    N°09
 #### Pedro Staaks    N°34
 #### Davi luiz       N°08
-#### Nicolas Torres  N°
+#### Nicolas Torres  N°32
 #### Guilherme       N°16
 *******
 
