@@ -190,13 +190,15 @@ Finalizar pedido
 
 
 ## Integrantes da StacksTech
-
-#### Lucas Francisco N°23
-#### Djalma Prado    N°09
-#### Pedro Staaks    N°34
 #### Davi luiz       N°08
-#### Nicolas Torres  N°32
+#### Djalma Prado    N°09
 #### Guilherme       N°16
+#### Lucas Francisco N°23
+#### Nicolas Torres  N°32
+#### Pedro Staaks    N°34
+
+
+
 *******
 
 ## Links 
